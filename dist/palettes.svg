@@ -10,13 +10,13 @@
           font-size: 6px;
         }
       </style>
-      <text y="7" x="3">Twilight Chocolate</text><rect width="26.571428571428573" height="10" y="10" x="0" fill="#1b1b19" />
-<rect width="26.571428571428573" height="10" y="10" x="28.571428571428573" fill="#803e23" />
-<rect width="26.571428571428573" height="10" y="10" x="57.142857142857146" fill="#ac6633" />
-<rect width="26.571428571428573" height="10" y="10" x="85.71428571428572" fill="#ea9e52" />
-<rect width="26.571428571428573" height="10" y="10" x="114.28571428571429" fill="#f7eedf" />
-<rect width="26.571428571428573" height="10" y="10" x="142.85714285714286" fill="#d7d3c8" />
-<rect width="26.571428571428573" height="10" y="10" x="171.42857142857144" fill="#aacfc8" />
+      <text y="7" x="3">Twilight Chocolate</text><rect width="26.571428571428573" height="10" y="10" x="0" fill="#009d9e" />
+<rect width="26.571428571428573" height="10" y="10" x="28.571428571428573" fill="#eb904f" />
+<rect width="26.571428571428573" height="10" y="10" x="57.142857142857146" fill="#746d85" />
+<rect width="26.571428571428573" height="10" y="10" x="85.71428571428572" fill="#c67770" />
+<rect width="26.571428571428573" height="10" y="10" x="114.28571428571429" fill="#e6646b" />
+<rect width="26.571428571428573" height="10" y="10" x="142.85714285714286" fill="#849a76" />
+<rect width="26.571428571428573" height="10" y="10" x="171.42857142857144" fill="#70acb1" />
 <text y="33" x="3">Gentle Sting</text><rect width="48" height="10" y="36" x="0" fill="#1b1b19" />
 <rect width="48" height="10" y="36" x="50" fill="#da704a" />
 <rect width="48" height="10" y="36" x="100" fill="#c8afbc" />
