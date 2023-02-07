@@ -1,4 +1,4 @@
-- name: Twilight Chocolate
+- name: River and Locomotive
   colors: 
     - '#009d9e'
     - '#eb904f'
@@ -7,3 +7,14 @@
     - '#e6646b'
     - '#849a76'
     - '#70acb1'
+    
+ name: River and Locomotive
+  colors: 
+    - '#83c3ff'
+    - '#785f80'
+    - '#d38385'
+    - '#d38385'
+    - '#28a2a5'
+    - '#eead83'
+    - '#504651'
+    - '#feb96e'
