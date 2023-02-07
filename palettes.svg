@@ -1,5 +1,5 @@
 
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 26">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 52">
       <style>
         text {
   font-family: sans-serif;
@@ -10,12 +10,20 @@
           font-size: 6px;
         }
       </style>
-      <text y="7" x="3">Twilight Chocolate</text><rect width="26.571428571428573" height="10" y="10" x="0" fill="#009d9e" />
+      <text y="7" x="3">River and Locomotive</text><rect width="26.571428571428573" height="10" y="10" x="0" fill="#009d9e" />
 <rect width="26.571428571428573" height="10" y="10" x="28.571428571428573" fill="#eb904f" />
 <rect width="26.571428571428573" height="10" y="10" x="57.142857142857146" fill="#746d85" />
 <rect width="26.571428571428573" height="10" y="10" x="85.71428571428572" fill="#c67770" />
 <rect width="26.571428571428573" height="10" y="10" x="114.28571428571429" fill="#e6646b" />
 <rect width="26.571428571428573" height="10" y="10" x="142.85714285714286" fill="#849a76" />
 <rect width="26.571428571428573" height="10" y="10" x="171.42857142857144" fill="#70acb1" />
+<text y="33" x="3">Riverside Trees</text><rect width="23" height="10" y="36" x="0" fill="#83c3ff" />
+<rect width="23" height="10" y="36" x="25" fill="#785f80" />
+<rect width="23" height="10" y="36" x="50" fill="#d38385" />
+<rect width="23" height="10" y="36" x="75" fill="#d38385" />
+<rect width="23" height="10" y="36" x="100" fill="#28a2a5" />
+<rect width="23" height="10" y="36" x="125" fill="#eead83" />
+<rect width="23" height="10" y="36" x="150" fill="#504651" />
+<rect width="23" height="10" y="36" x="175" fill="#feb96e" />
     </svg>
   
